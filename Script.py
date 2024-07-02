@@ -673,13 +673,13 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/Animesagaofficiall'>VJ</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/Ultroid_official'>Ultroid_official</a>
 
--Dev 2 <a href='https://t.me/dinesh12777'>Dinesh</a>
+-Dev 2 <a href='https://t.me/Jatin_24x'>Jatin_24x</a>
 
--Dev 3 <a href='https://t.me/dinesh12777>Team</a>
+-Dev 3 <a href='https://t.me/UltroidxTeam>Team</a>
 
-- Dev 4 <a href='https://t.me/dinesh12777'>TEAM</a>"""
+- Dev 4 <a href='https://t.me/UltroidxTeam'>TEAM</a>"""
 
     RENAME_TXT = """
 🌌 <b><u>HOW TO SET THUMBNAIL</u></b>
