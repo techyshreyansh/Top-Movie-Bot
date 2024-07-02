@@ -1,8 +1,7 @@
 # Don't Remove Credit @Ultroid_official
 
-
 import re
-from os import environ
+from os import getenv, environ
 from Script import script 
 
 id_pattern = re.compile(r'^.\d+$')
