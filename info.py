@@ -95,12 +95,12 @@ VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', '')
 # if verify second shortner is True then fill below url and api
 VERIFY_SND_SHORTLINK_URL = environ.get('VERIFY_SND_SHORTLINK_URL', '')
 VERIFY_SND_SHORTLINK_API = environ.get('VERIFY_SND_SHORTLINK_API', '')
-VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/Animesagaofficiall/18')
+VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/ultroid_official/18')
 
 # Shortlink Info
 SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', True))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'api.shareus.io')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'PUIAQBIFrydvLhIzAOeGV8yZppu2')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'evolinks.in')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'd2e71fffacb476bacc31a521cc42df4833e0e795')
 
 # Others
 MAX_B_TN = environ.get("MAX_B_TN", "10")
